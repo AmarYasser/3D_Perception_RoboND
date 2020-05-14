@@ -5,6 +5,7 @@ The project is for PR2 Robot perception pipeline for object detection of point c
 
 # work Report
 Please check work progress in [Write_Up.pdf](https://github.com/AmarYasser/3D_Perception_RoboND/blob/master/Write-Up.pdf)
+and [project.py](https://github.com/AmarYasser/3D_Perception_RoboND/blob/master/project.py) 
 
 ## Note
 to ensure that project will be built correctly, please do the following command inside the workspace:
