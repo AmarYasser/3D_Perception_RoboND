@@ -11,5 +11,6 @@ export CMAKE_PREFIX_PATH="/home/asd/Downloads/3D_Perception/devel:$CMAKE_PREFIX_
 export LD_LIBRARY_PATH="/home/asd/Downloads/3D_Perception/devel/lib:$LD_LIBRARY_PATH"
 export PKG_CONFIG_PATH="/home/asd/Downloads/3D_Perception/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/asd/Downloads/3D_Perception/build"
+export PYTHONPATH="/home/asd/Downloads/3D_Perception/devel/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/asd/Downloads/3D_Perception/devel/share/common-lisp"
 export ROS_PACKAGE_PATH="/home/asd/Downloads/3D_Perception/src:$ROS_PACKAGE_PATH"

@@ -638,13 +638,13 @@ gazebo_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/gazebo
 gazebo_grasp_fix_LIB_DEPENDS:STATIC=general;/usr/lib/x86_64-linux-gnu/libgazebo.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_client.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_gui.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_sensors.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_rendering.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_physics.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_ode.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_transport.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_msgs.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_util.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_common.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_gimpact.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_opcode.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_opende_ou.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_math.so;general;/usr/lib/x86_64-linux-gnu/libgazebo_ccd.so;general;/usr/lib/x86_64-linux-gnu/libboost_thread.so;general;/usr/lib/x86_64-linux-gnu/libboost_system.so;general;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;general;/usr/lib/x86_64-linux-gnu/libboost_program_options.so;general;/usr/lib/x86_64-linux-gnu/libboost_regex.so;general;/usr/lib/x86_64-linux-gnu/libboost_iostreams.so;general;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;general;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;general;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;general;/usr/lib/x86_64-linux-gnu/libpthread.so;optimized;/usr/lib/x86_64-linux-gnu/libprotobuf.so;debug;/usr/lib/x86_64-linux-gnu/libprotobuf.so;general;-lpthread;general;/usr/lib/x86_64-linux-gnu/libsdformat.so;general;/usr/lib/x86_64-linux-gnu/libignition-math2.so;optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so;general;/usr/lib/x86_64-linux-gnu/libboost_thread.so;general;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;general;/usr/lib/x86_64-linux-gnu/libboost_system.so;general;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;general;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;general;/usr/lib/x86_64-linux-gnu/libpthread.so;optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;general;/usr/lib/x86_64-linux-gnu/libignition-math2.so;general;/usr/lib/x86_64-linux-gnu/libboost_thread.so;general;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;general;/usr/lib/x86_64-linux-gnu/libboost_system.so;general;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;general;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;general;/usr/lib/x86_64-linux-gnu/libpthread.so;
 
 //Value Computed by CMake
-gazebo_grasp_plugin_BINARY_DIR:STATIC=/home/asd/Downloads/3D_Perception/build/RoboND-Perception-Project/gazebo_grasp_plugin
+gazebo_grasp_plugin_BINARY_DIR:STATIC=/home/asd/Downloads/3D_Perception/build/gazebo_grasp_plugin
 
 //The directory containing a CMake configuration file for gazebo_grasp_plugin.
 gazebo_grasp_plugin_DIR:PATH=/home/asd/Downloads/3D_Perception/devel/share/gazebo_grasp_plugin/cmake
 
 //Value Computed by CMake
-gazebo_grasp_plugin_SOURCE_DIR:STATIC=/home/asd/Downloads/3D_Perception/src/RoboND-Perception-Project/gazebo_grasp_plugin
+gazebo_grasp_plugin_SOURCE_DIR:STATIC=/home/asd/Downloads/3D_Perception/src/gazebo_grasp_plugin
 
 //The directory containing a CMake configuration file for gazebo_msgs.
 gazebo_msgs_DIR:PATH=/opt/ros/kinetic/share/gazebo_msgs/cmake
@@ -801,16 +801,16 @@ pcl_ros_DIR:PATH=/opt/ros/kinetic/share/pcl_ros/cmake
 pluginlib_DIR:PATH=/opt/ros/kinetic/share/pluginlib/cmake
 
 //Value Computed by CMake
-pr2_moveit_BINARY_DIR:STATIC=/home/asd/Downloads/3D_Perception/build/RoboND-Perception-Project/pr2_moveit
+pr2_moveit_BINARY_DIR:STATIC=/home/asd/Downloads/3D_Perception/build/pr2_moveit
 
 //Value Computed by CMake
-pr2_moveit_SOURCE_DIR:STATIC=/home/asd/Downloads/3D_Perception/src/RoboND-Perception-Project/pr2_moveit
+pr2_moveit_SOURCE_DIR:STATIC=/home/asd/Downloads/3D_Perception/src/pr2_moveit
 
 //Value Computed by CMake
-pr2_robot_BINARY_DIR:STATIC=/home/asd/Downloads/3D_Perception/build/RoboND-Perception-Project/pr2_robot
+pr2_robot_BINARY_DIR:STATIC=/home/asd/Downloads/3D_Perception/build/pr2_robot
 
 //Value Computed by CMake
-pr2_robot_SOURCE_DIR:STATIC=/home/asd/Downloads/3D_Perception/src/RoboND-Perception-Project/pr2_robot
+pr2_robot_SOURCE_DIR:STATIC=/home/asd/Downloads/3D_Perception/src/pr2_robot
 
 //The directory containing a CMake configuration file for random_numbers.
 random_numbers_DIR:PATH=/opt/ros/kinetic/share/random_numbers/cmake

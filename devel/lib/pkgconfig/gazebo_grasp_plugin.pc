@@ -3,6 +3,6 @@ prefix=/home/asd/Downloads/3D_Perception/devel
 Name: gazebo_grasp_plugin
 Description: Description of gazebo_grasp_plugin
 Version: 1.0.1
-Cflags: -I/home/asd/Downloads/3D_Perception/src/RoboND-Perception-Project/gazebo_grasp_plugin/include
+Cflags: -I/home/asd/Downloads/3D_Perception/src/gazebo_grasp_plugin/include
 Libs: -L${prefix}/lib -lgazebo_grasp_fix
 Requires: gazebo_ros geometry_msgs roscpp std_msgs

@@ -126,9 +126,9 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/asd/Downloads/3D_Perception/build/gtest/cmake_install.cmake")
-  include("/home/asd/Downloads/3D_Perception/build/RoboND-Perception-Project/gazebo_grasp_plugin/cmake_install.cmake")
-  include("/home/asd/Downloads/3D_Perception/build/RoboND-Perception-Project/pr2_robot/cmake_install.cmake")
-  include("/home/asd/Downloads/3D_Perception/build/RoboND-Perception-Project/pr2_moveit/cmake_install.cmake")
+  include("/home/asd/Downloads/3D_Perception/build/gazebo_grasp_plugin/cmake_install.cmake")
+  include("/home/asd/Downloads/3D_Perception/build/pr2_robot/cmake_install.cmake")
+  include("/home/asd/Downloads/3D_Perception/build/pr2_moveit/cmake_install.cmake")
 
 endif()
 
