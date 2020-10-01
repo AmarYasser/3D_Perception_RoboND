@@ -1,0 +1,2 @@
+gazebo_grasp_plugin:pr2_moveit:pr2_robot
+-DCATKIN_DEVEL_PREFIX=/home/asd/Downloads/3D_Perception/devel -DCMAKE_INSTALL_PREFIX=/home/asd/Downloads/3D_Perception/install -G Unix Makefiles
